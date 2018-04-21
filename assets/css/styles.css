@@ -1,0 +1,284 @@
+/* done */
+img
+{
+    margin-bottom: -100px;
+    margin-top: -20px;
+    margin-left: 15%;
+    width: 960px;
+    float: center;
+}
+
+/* done */
+title
+
+{
+    margin-top: 100px;
+    margin-left: 15%;
+    width: 960px;
+    float: center;
+}
+
+
+/* done */
+body 
+{
+    background-color:#eee;
+
+    
+}
+
+/* done */
+h1  
+{
+    color:white;
+    background-color:#4aaaa5;
+    text-align:center;
+    text-transform:uppercase; font-size: 75px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+    margin-left: 15%;
+    width: 960px;
+
+}
+
+
+/* done */
+  p
+{
+    color:white;
+    font-size: 20px;
+    text-decoration: stroke 1px;
+    background-color:#4aaaa5;
+    text-align: center;
+    margin-bottom:-50px;
+    margin-top: -10px;
+    width: 960px;
+}
+
+
+
+
+
+
+nav2
+nav2
+{
+    float:center;
+    width: 5px;
+    
+}
+nav2 ul 
+{
+ list-style-type:none;
+ margin: 0px;
+ padding: 0px;  
+ text-align: center;      
+}
+nav2 ul li 
+{
+    margin: 5px; padding: 1px; text-transform:capitalize; font-size: 20px;
+    border-radius: 10px 10px 10px 10px;
+    border-style: solid;
+    border-width: 5px;
+    border-color:#cccccc ;
+    float: right;
+
+}
+nav2 ul li a 
+{
+    color:white;
+    text-decoration: none ;
+    -webkit-text-stroke:1px #cccccc ;
+}
+
+
+
+ h5
+
+{
+    color:#9bd8d7;
+    font-size: 55px;
+    text-decoration: stroke 1px;
+    -webkit-text-stroke:px black ;
+    background-color:none;
+    text-align:center;
+    width: 960px;
+    margin-left: 15%;
+}
+
+p2 
+
+{
+    font-size: 25px;
+    color: black;
+    text-decoration:none;
+    background-color:none;
+    margin-right: 10px;
+    text-align: left;
+    word-wrap:normal;
+    clear: left;
+} 
+
+
+article
+{
+
+    background-color: white;
+    border-style: solid;
+    border-width: 20px;
+    float: center;
+    margin-left: 15%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border-color:white;
+    width:525; height:550px;
+    width: 920px
+
+}
+
+h2
+
+{
+    color:#4aaaa5;
+    background-color:none;
+    text-align:left;
+    text-transform:uppercase; font-size: 35px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    width: 920px;
+    border-bottom-style: solid;
+    border-width: 1px;
+    border-color: #454746;
+}
+
+/* done */
+#selfie
+
+{
+    float: left;
+    margin-top: 10px;
+    margin-left: 0px;
+    margin-right: 10px;
+}
+
+#food
+{
+
+    margin-top: 10px;
+    margin-left: 10px;
+    float: left;
+    
+
+}
+
+
+/* contact form*/ /* done*/
+input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 5px; 
+    resize: vertical 
+}
+
+/* done*/
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 40px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top:10px;
+    margin-bottom: 10px
+}
+
+/* done*/
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* done*/
+.container {
+    border-radius: 10px;
+    background-color: #f2f2f2;
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+    margin-top: 15px;
+    float: left;
+    width: 25%;
+    padding: 20px;
+    margin-bottom: -20px;
+  }
+  
+  /* Clear floats after image containers */
+  .row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+
+
+#Photoshop
+{
+
+}
+
+#Drawings
+{
+
+}
+
+#Music
+{
+
+}
+
+#Multimedia
+{
+
+}
+
+
+
+
+/* done */
+footer
+{
+    float:left;
+    margin-left: 15%;
+}	
+
+/* done */
+#footer {
+    background-color:#454746;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    border-style: solid;
+    border-width: 5px;
+    border-color:#4aaaa5;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 952px;
+    margin-left: 15%;
+
+
+}
